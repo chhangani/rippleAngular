@@ -1,0 +1,11 @@
+<h1>fatched Result</h1>
+
+<div *ngFor="let movie of movies">
+  <h2>
+    {{movie.movieName}}
+    {{movie.movieId}}
+    <input type="button" class="btn btn-danger" value="delete" (click)="deleteFav(movie.movieId)">
+  </h2>
+</div>
+
+<!-- (click)="deleteFav(movie.movie_id)"-->

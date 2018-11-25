@@ -1,0 +1,6 @@
+projectKey=ripple-movie
+serverUrl=http://localhost:9000
+serverVersion=6.7.5.38563
+dashboardUrl=http://localhost:9000/dashboard/index/ripple-movie
+ceTaskId=AWc_LAhi_vZFoS8BbR5l
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWc_LAhi_vZFoS8BbR5l
